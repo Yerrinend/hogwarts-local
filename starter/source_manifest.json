@@ -1,0 +1,64 @@
+{
+  "repository": "Yerrinend/Hogwarts-RPG",
+  "commit": "9db6dc6d0fef4d8913ebb8e30ef14dbc3d97cbe0",
+  "files_inspected": 177,
+  "scope": "Полный снимок получен и программно проверен; смысловая адаптация основных правил, персонажей и планов. Личные архивы классифицированы как исключённые, не скопированы в комплект.",
+  "sources": [
+    {
+      "path": "rpg/character_canon.md",
+      "sha": "74a03ed0c94453836fb8fe58a5e40739246a3694"
+    },
+    {
+      "path": "rpg/game_rules.md",
+      "sha": "d0dcc06276e4d74a505d348148e83c7577192a84"
+    },
+    {
+      "path": "rpg/canon_and_pacing_priority.md",
+      "sha": "ad599a018e31ea88989d8a499c18a62de1ecc93f"
+    },
+    {
+      "path": "rpg/blood_protection_au.md",
+      "sha": "3111b07c2b545959f719042cdaa9812a5a96179d"
+    },
+    {
+      "path": "rpg/dursleys_book_canon.md",
+      "sha": "93f7fe8488c3dfaa37d349ed3d5cecfce3cbd64e"
+    },
+    {
+      "path": "rpg/ensemble_and_parallel_scenes.md",
+      "sha": "9df66d0b34c5ce22f9be556c312c31284b7cc900"
+    },
+    {
+      "path": "rpg/future_plans.md",
+      "sha": "e7a99864a39d93aaa44213c133d554722320eefe"
+    },
+    {
+      "path": "rpg/future_ideas_user_2026_11_02.md",
+      "sha": "2895b33163073ed27ddb071ab87624b42e47c0c5"
+    },
+    {
+      "path": "rpg/scar_and_dreams_canon.md",
+      "sha": "e5e1bf441461754aca33ee8ed95e70986fe41a81"
+    },
+    {
+      "path": "rpg/snape_book_canon.md",
+      "sha": "4ea9a6dccb28e47d2e1e315b909ebe87c923e58d"
+    },
+    {
+      "path": "rpg/secret_west_garden.md",
+      "sha": "92a19634c99d8b9229023003446925b0e5cf9026"
+    },
+    {
+      "path": "rpg/foreshadowing_register.md",
+      "sha": "6c619e919cab9cf59c993decc70cc47c986f1db5"
+    }
+  ],
+  "excluded_categories": [
+    "личные главы и выборы",
+    "текущие сохранения и числа",
+    "интимные журналы и промпты",
+    "личные подарки, травмы и узнавания",
+    "исторические результаты матчей"
+  ],
+  "new_game_policy": "Исходные свойства и мировые правила сохранены; зависящие от отношений сюжетные планы условны. Не принуждать нового игрока к роману автора."
+}

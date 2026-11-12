@@ -1,0 +1,15 @@
+data/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.git/
+build/
+dist/
+outputs/
+runtime/
+*.sqlite3
+*.sqlite3-*
+*.dpapi
+*.log
